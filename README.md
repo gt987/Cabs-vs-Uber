@@ -1,6 +1,6 @@
 # Cabs-vs-Uber
 
-This is an uncommented notebook that I used to check whether Uber is beating the traditional cab companies in NYC. 
+This is an repository where you can find the data and the notebook that I used to check whether Uber is beating the traditional cab companies in NYC and that has been posted [here](https://gt987.github.io/data%20lens/transportation/Cabs-vs-Uber/).
 
 # Data
 
