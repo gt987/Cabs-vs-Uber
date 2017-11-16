@@ -9,3 +9,6 @@ The total amount of data is huge! so huge that is does not fit on my computer. F
 
 The 2017 data is not there, so I downloaded from TLC. Also there is an error in how BigQuesry retrive the FHV data in June 2015, which I've fixed by looking directly at the TLC data. 
 
+# Notebook
+
+Coming soon.
