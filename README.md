@@ -11,4 +11,4 @@ The 2017 data is not there, so I downloaded from TLC. Also there is an error in 
 
 # Notebook
 
-Coming soon.
+In the notebook you can find the code to download the data from TLC and the code that I used to make to plot for the blog post. This is an uncommented notebook, but everything is straightforward. 
